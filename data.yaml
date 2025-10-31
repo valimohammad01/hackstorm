@@ -1,0 +1,5 @@
+train: suspicious_data/data/images/train
+val: suspicious_data/data/images/val
+nc: 11               # number of suspicious classes
+
+names: ["gun", "knife", "scissor", "fire", "bat", "rod", "Pointed_knife", "Dual-edge-sharp-knife", "dual-edge_knife", "recurve", "Sharp_cutter"]

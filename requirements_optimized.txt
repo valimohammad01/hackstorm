@@ -1,0 +1,10 @@
+# Optimized requirements for smooth laptop performance
+streamlit==1.29.0
+ultralytics==8.3.9
+opencv-python-headless==4.8.0.76  # Headless version for better performance
+pandas==2.1.1
+numpy==1.26.0
+torch>=2.0.0  # Latest PyTorch for better optimization
+torchvision>=0.15.0
+psutil==5.9.6  # For system monitoring
+Pillow==10.0.1  # Image processing

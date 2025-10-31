@@ -1,0 +1,9 @@
+@echo off
+echo Starting Optimized AI Surveillance...
+echo.
+echo Checking system requirements...
+python -c "import torch; print(f'PyTorch: {torch.__version__}'); print(f'CUDA Available: {torch.cuda.is_available()}')"
+echo.
+echo Starting Streamlit application...
+streamlit run optimized_surveillance.py --server.port 8501 --server.headless true
+pause

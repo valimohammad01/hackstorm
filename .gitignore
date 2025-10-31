@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# YOLOv8 weights
+*.pt
+
+# Model runs
+suspicious_data/data/runs/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+.env
