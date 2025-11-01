@@ -1,0 +1,17 @@
+# Core Dependencies
+streamlit==1.29.0
+ultralytics==8.3.9
+opencv-python-headless==4.8.0.76
+pandas==2.1.1
+numpy==1.26.0
+
+# Face Expression Analysis
+deepface==0.0.79
+tf-keras==2.15.0
+tensorflow==2.15.0
+
+# Google Gemini API for Image Enhancement
+google-generativeai==0.3.2
+
+# Additional utilities
+Pillow==10.1.0

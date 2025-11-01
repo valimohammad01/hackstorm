@@ -1,0 +1,1542 @@
+[
+  {
+    "timestamp": "2025-11-01T08:55:42.538268",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 62.65%)",
+    "date": "2025-11-01",
+    "time": "08:55:42"
+  },
+  {
+    "timestamp": "2025-11-01T08:55:48.688985",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 43.45%)",
+    "date": "2025-11-01",
+    "time": "08:55:48"
+  },
+  {
+    "timestamp": "2025-11-01T08:55:54.174914",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 43.74%)",
+    "date": "2025-11-01",
+    "time": "08:55:54"
+  },
+  {
+    "timestamp": "2025-11-01T08:56:00.248601",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 40.48%)",
+    "date": "2025-11-01",
+    "time": "08:56:00"
+  },
+  {
+    "timestamp": "2025-11-01T08:56:05.899099",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 46.04%)",
+    "date": "2025-11-01",
+    "time": "08:56:05"
+  },
+  {
+    "timestamp": "2025-11-01T08:56:34.745183",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 54.63%)",
+    "date": "2025-11-01",
+    "time": "08:56:34"
+  },
+  {
+    "timestamp": "2025-11-01T08:56:39.813435",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 45.18%)",
+    "date": "2025-11-01",
+    "time": "08:56:39"
+  },
+  {
+    "timestamp": "2025-11-01T08:57:34.874852",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 41.49%)",
+    "date": "2025-11-01",
+    "time": "08:57:34"
+  },
+  {
+    "timestamp": "2025-11-01T08:58:32.002297",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 48.13%)",
+    "date": "2025-11-01",
+    "time": "08:58:32"
+  },
+  {
+    "timestamp": "2025-11-01T09:13:21.982219",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 42.09%)",
+    "date": "2025-11-01",
+    "time": "09:13:21"
+  },
+  {
+    "timestamp": "2025-11-01T09:13:26.206610",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 53.39%)",
+    "date": "2025-11-01",
+    "time": "09:13:26"
+  },
+  {
+    "timestamp": "2025-11-01T09:15:51.747814",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 47.73%)",
+    "date": "2025-11-01",
+    "time": "09:15:51"
+  },
+  {
+    "timestamp": "2025-11-01T09:16:09.344332",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 40.42%)",
+    "date": "2025-11-01",
+    "time": "09:16:09"
+  },
+  {
+    "timestamp": "2025-11-01T09:34:09.578500",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 63.82%)",
+    "date": "2025-11-01",
+    "time": "09:34:09"
+  },
+  {
+    "timestamp": "2025-11-01T09:34:12.999121",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 64.22%)",
+    "date": "2025-11-01",
+    "time": "09:34:12"
+  },
+  {
+    "timestamp": "2025-11-01T09:53:45.188753",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 50.71%)",
+    "date": "2025-11-01",
+    "time": "09:53:45"
+  },
+  {
+    "timestamp": "2025-11-01T09:53:52.138942",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 41.17%)",
+    "date": "2025-11-01",
+    "time": "09:53:52"
+  },
+  {
+    "timestamp": "2025-11-01T09:54:00.476804",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 51.88%)",
+    "date": "2025-11-01",
+    "time": "09:54:00"
+  },
+  {
+    "timestamp": "2025-11-01T09:54:06.124609",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 35.13%)",
+    "date": "2025-11-01",
+    "time": "09:54:06"
+  },
+  {
+    "timestamp": "2025-11-01T10:17:00.942116",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 67.33%)",
+    "date": "2025-11-01",
+    "time": "10:17:00"
+  },
+  {
+    "timestamp": "2025-11-01T10:17:25.602163",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 WEAPON DETECTED: KNIFE (Confidence: 53.36%)",
+    "date": "2025-11-01",
+    "time": "10:17:25"
+  },
+  {
+    "timestamp": "2025-11-01T10:20:34.873260",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 58.86%)",
+    "date": "2025-11-01",
+    "time": "10:20:34"
+  },
+  {
+    "timestamp": "2025-11-01T10:20:38.133909",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 47.92%)",
+    "date": "2025-11-01",
+    "time": "10:20:38"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:16.473970",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 50.98%)",
+    "date": "2025-11-01",
+    "time": "10:26:16"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:19.550883",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 54.99%)",
+    "date": "2025-11-01",
+    "time": "10:26:19"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:22.558885",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 59.59%)",
+    "date": "2025-11-01",
+    "time": "10:26:22"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:25.603299",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 58.14%)",
+    "date": "2025-11-01",
+    "time": "10:26:25"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:28.665746",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 52.06%)",
+    "date": "2025-11-01",
+    "time": "10:26:28"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:31.740944",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 44.76%)",
+    "date": "2025-11-01",
+    "time": "10:26:31"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:34.844087",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 44.76%)",
+    "date": "2025-11-01",
+    "time": "10:26:34"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:37.897814",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 45.57%)",
+    "date": "2025-11-01",
+    "time": "10:26:37"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:40.914953",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 42.46%)",
+    "date": "2025-11-01",
+    "time": "10:26:40"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:43.931304",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 44.40%)",
+    "date": "2025-11-01",
+    "time": "10:26:43"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:47.034258",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 56.49%)",
+    "date": "2025-11-01",
+    "time": "10:26:47"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:50.966144",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 45.05%)",
+    "date": "2025-11-01",
+    "time": "10:26:50"
+  },
+  {
+    "timestamp": "2025-11-01T10:26:56.095668",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 47.24%)",
+    "date": "2025-11-01",
+    "time": "10:26:56"
+  },
+  {
+    "timestamp": "2025-11-01T10:27:02.837041",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 25.56%)",
+    "date": "2025-11-01",
+    "time": "10:27:02"
+  },
+  {
+    "timestamp": "2025-11-01T10:27:05.939419",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 51.84%)",
+    "date": "2025-11-01",
+    "time": "10:27:05"
+  },
+  {
+    "timestamp": "2025-11-01T10:27:08.996633",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 49.68%)",
+    "date": "2025-11-01",
+    "time": "10:27:08"
+  },
+  {
+    "timestamp": "2025-11-01T10:27:12.088420",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 54.19%)",
+    "date": "2025-11-01",
+    "time": "10:27:12"
+  },
+  {
+    "timestamp": "2025-11-01T10:27:46.902777",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 25.87%)",
+    "date": "2025-11-01",
+    "time": "10:27:46"
+  },
+  {
+    "timestamp": "2025-11-01T10:27:51.417011",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 33.62%)",
+    "date": "2025-11-01",
+    "time": "10:27:51"
+  },
+  {
+    "timestamp": "2025-11-01T10:27:54.540406",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 26.54%)",
+    "date": "2025-11-01",
+    "time": "10:27:54"
+  },
+  {
+    "timestamp": "2025-11-01T10:27:57.751409",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 61.75%)",
+    "date": "2025-11-01",
+    "time": "10:27:57"
+  },
+  {
+    "timestamp": "2025-11-01T10:28:00.954614",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 69.01%)",
+    "date": "2025-11-01",
+    "time": "10:28:00"
+  },
+  {
+    "timestamp": "2025-11-01T10:28:04.072308",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 57.41%)",
+    "date": "2025-11-01",
+    "time": "10:28:04"
+  },
+  {
+    "timestamp": "2025-11-01T10:28:07.136197",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 63.66%)",
+    "date": "2025-11-01",
+    "time": "10:28:07"
+  },
+  {
+    "timestamp": "2025-11-01T10:28:10.218034",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 43.41%)",
+    "date": "2025-11-01",
+    "time": "10:28:10"
+  },
+  {
+    "timestamp": "2025-11-01T10:40:12.188763",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 26.26%)",
+    "date": "2025-11-01",
+    "time": "10:40:12"
+  },
+  {
+    "timestamp": "2025-11-01T10:40:57.572737",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 31.87%)",
+    "date": "2025-11-01",
+    "time": "10:40:57"
+  },
+  {
+    "timestamp": "2025-11-01T10:41:33.594277",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 27.81%)",
+    "date": "2025-11-01",
+    "time": "10:41:33"
+  },
+  {
+    "timestamp": "2025-11-01T10:41:36.854113",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 30.18%)",
+    "date": "2025-11-01",
+    "time": "10:41:36"
+  },
+  {
+    "timestamp": "2025-11-01T10:41:42.676501",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 36.07%)",
+    "date": "2025-11-01",
+    "time": "10:41:42"
+  },
+  {
+    "timestamp": "2025-11-01T10:42:13.147925",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 29.71%)",
+    "date": "2025-11-01",
+    "time": "10:42:13"
+  },
+  {
+    "timestamp": "2025-11-01T10:42:17.181040",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 30.94%)",
+    "date": "2025-11-01",
+    "time": "10:42:17"
+  },
+  {
+    "timestamp": "2025-11-01T10:42:25.964390",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 27.17%)",
+    "date": "2025-11-01",
+    "time": "10:42:25"
+  },
+  {
+    "timestamp": "2025-11-01T10:42:29.015847",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 31.57%)",
+    "date": "2025-11-01",
+    "time": "10:42:29"
+  },
+  {
+    "timestamp": "2025-11-01T10:42:32.683152",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 31.43%)",
+    "date": "2025-11-01",
+    "time": "10:42:32"
+  },
+  {
+    "timestamp": "2025-11-01T10:42:37.719970",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 32.32%)",
+    "date": "2025-11-01",
+    "time": "10:42:37"
+  },
+  {
+    "timestamp": "2025-11-01T10:42:40.837556",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 59.04%)",
+    "date": "2025-11-01",
+    "time": "10:42:40"
+  },
+  {
+    "timestamp": "2025-11-01T10:42:43.853946",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 33.87%)",
+    "date": "2025-11-01",
+    "time": "10:42:43"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:56.167864",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 30.29%)",
+    "date": "2025-11-01",
+    "time": "10:47:56"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:56.449739",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 63.09%)",
+    "date": "2025-11-01",
+    "time": "10:47:56"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:56.631479",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 50.12%)",
+    "date": "2025-11-01",
+    "time": "10:47:56"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:56.782410",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 62.52%)",
+    "date": "2025-11-01",
+    "time": "10:47:56"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:57.316479",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 29.85%)",
+    "date": "2025-11-01",
+    "time": "10:47:57"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:57.476031",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 36.56%)",
+    "date": "2025-11-01",
+    "time": "10:47:57"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:57.632780",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 28.24%)",
+    "date": "2025-11-01",
+    "time": "10:47:57"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:57.790045",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 24.79%)",
+    "date": "2025-11-01",
+    "time": "10:47:57"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:57.945029",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 30.67%)",
+    "date": "2025-11-01",
+    "time": "10:47:57"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:58.095894",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 38.33%)",
+    "date": "2025-11-01",
+    "time": "10:47:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:58.250094",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 32.12%)",
+    "date": "2025-11-01",
+    "time": "10:47:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:58.269401",
+    "type": "weapon_proximity",
+    "message": "\u26a0\ufe0f HIGH: SCISSORS near Person ID:2",
+    "date": "2025-11-01",
+    "time": "10:47:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:58.423546",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 50.65%)",
+    "date": "2025-11-01",
+    "time": "10:47:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:58.444070",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 20.13%)",
+    "date": "2025-11-01",
+    "time": "10:47:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:58.598404",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 46.58%)",
+    "date": "2025-11-01",
+    "time": "10:47:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:58.617824",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 20.98%)",
+    "date": "2025-11-01",
+    "time": "10:47:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:47:58.768102",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 54.75%)",
+    "date": "2025-11-01",
+    "time": "10:47:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:50.840677",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 21.51%)",
+    "date": "2025-11-01",
+    "time": "10:48:50"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:50.870630",
+    "type": "weapon_proximity",
+    "message": "\u26a0\ufe0f HIGH: KNIFE near Person ID:38",
+    "date": "2025-11-01",
+    "time": "10:48:50"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:51.178041",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 21.15%)",
+    "date": "2025-11-01",
+    "time": "10:48:51"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:52.700183",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 18.74%)",
+    "date": "2025-11-01",
+    "time": "10:48:52"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:52.724092",
+    "type": "weapon_proximity",
+    "message": "\u26a0\ufe0f HIGH: KNIFE near Person ID:35",
+    "date": "2025-11-01",
+    "time": "10:48:52"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:53.166364",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 24.62%)",
+    "date": "2025-11-01",
+    "time": "10:48:53"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:53.592678",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 19.56%)",
+    "date": "2025-11-01",
+    "time": "10:48:53"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:57.438670",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 39.55%)",
+    "date": "2025-11-01",
+    "time": "10:48:57"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:57.594758",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 23.34%)",
+    "date": "2025-11-01",
+    "time": "10:48:57"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:58.023647",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 51.15%)",
+    "date": "2025-11-01",
+    "time": "10:48:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:58.047236",
+    "type": "weapon_proximity",
+    "message": "\u26a0\ufe0f HIGH: SCISSORS near Person ID:2",
+    "date": "2025-11-01",
+    "time": "10:48:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:58.202998",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 80.24%)",
+    "date": "2025-11-01",
+    "time": "10:48:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:58.351890",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 50.18%)",
+    "date": "2025-11-01",
+    "time": "10:48:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:58.376552",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 33.51%)",
+    "date": "2025-11-01",
+    "time": "10:48:58"
+  },
+  {
+    "timestamp": "2025-11-01T10:48:59.234253",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 26.54%)",
+    "date": "2025-11-01",
+    "time": "10:48:59"
+  },
+  {
+    "timestamp": "2025-11-01T10:49:47.087089",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 19.24%)",
+    "date": "2025-11-01",
+    "time": "10:49:47"
+  },
+  {
+    "timestamp": "2025-11-01T10:49:49.263924",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 31.69%)",
+    "date": "2025-11-01",
+    "time": "10:49:49"
+  },
+  {
+    "timestamp": "2025-11-01T10:49:49.469279",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 37.32%)",
+    "date": "2025-11-01",
+    "time": "10:49:49"
+  },
+  {
+    "timestamp": "2025-11-01T10:49:50.788178",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 23.41%)",
+    "date": "2025-11-01",
+    "time": "10:49:50"
+  },
+  {
+    "timestamp": "2025-11-01T10:49:56.238294",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 29.44%)",
+    "date": "2025-11-01",
+    "time": "10:49:56"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:01.664705",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 40.95%)",
+    "date": "2025-11-01",
+    "time": "10:50:01"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:08.367847",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 30.37%)",
+    "date": "2025-11-01",
+    "time": "10:50:08"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:08.525802",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 49.38%)",
+    "date": "2025-11-01",
+    "time": "10:50:08"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:08.675712",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 46.90%)",
+    "date": "2025-11-01",
+    "time": "10:50:08"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:08.831321",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 27.69%)",
+    "date": "2025-11-01",
+    "time": "10:50:08"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:08.987003",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 25.35%)",
+    "date": "2025-11-01",
+    "time": "10:50:08"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:09.140034",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 37.60%)",
+    "date": "2025-11-01",
+    "time": "10:50:09"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:09.297729",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 33.25%)",
+    "date": "2025-11-01",
+    "time": "10:50:09"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:09.453945",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 45.13%)",
+    "date": "2025-11-01",
+    "time": "10:50:09"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:10.993696",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 26.27%)",
+    "date": "2025-11-01",
+    "time": "10:50:10"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:11.475000",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 20.46%)",
+    "date": "2025-11-01",
+    "time": "10:50:11"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:11.815409",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 22.04%)",
+    "date": "2025-11-01",
+    "time": "10:50:11"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:12.178992",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 26.42%)",
+    "date": "2025-11-01",
+    "time": "10:50:12"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:18.031234",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 25.32%)",
+    "date": "2025-11-01",
+    "time": "10:50:18"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:18.232827",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 26.72%)",
+    "date": "2025-11-01",
+    "time": "10:50:18"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:18.833202",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 28.72%)",
+    "date": "2025-11-01",
+    "time": "10:50:18"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:19.076469",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 52.25%)",
+    "date": "2025-11-01",
+    "time": "10:50:19"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:22.005431",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 19.68%)",
+    "date": "2025-11-01",
+    "time": "10:50:22"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:22.031849",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 18.08%)",
+    "date": "2025-11-01",
+    "time": "10:50:22"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:42.050668",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 23.65%)",
+    "date": "2025-11-01",
+    "time": "10:50:42"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:42.080167",
+    "type": "weapon_proximity",
+    "message": "\u26a0\ufe0f HIGH: SCISSORS near Person ID:34",
+    "date": "2025-11-01",
+    "time": "10:50:42"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:42.263045",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 24.46%)",
+    "date": "2025-11-01",
+    "time": "10:50:42"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:42.458240",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 32.20%)",
+    "date": "2025-11-01",
+    "time": "10:50:42"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:42.655321",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 45.84%)",
+    "date": "2025-11-01",
+    "time": "10:50:42"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:42.831035",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 33.99%)",
+    "date": "2025-11-01",
+    "time": "10:50:42"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:43.185083",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 37.33%)",
+    "date": "2025-11-01",
+    "time": "10:50:43"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:43.214526",
+    "type": "weapon_proximity",
+    "message": "\u26a0\ufe0f HIGH: SCISSORS near Person ID:34",
+    "date": "2025-11-01",
+    "time": "10:50:43"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:43.574949",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 26.88%)",
+    "date": "2025-11-01",
+    "time": "10:50:43"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:43.771162",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 66.73%)",
+    "date": "2025-11-01",
+    "time": "10:50:43"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:46.334567",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 38.64%)",
+    "date": "2025-11-01",
+    "time": "10:50:46"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:46.357250",
+    "type": "weapon_proximity",
+    "message": "\u26a0\ufe0f HIGH: SCISSORS near Person ID:38",
+    "date": "2025-11-01",
+    "time": "10:50:46"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:47.766990",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 28.36%)",
+    "date": "2025-11-01",
+    "time": "10:50:47"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:47.798269",
+    "type": "weapon_proximity",
+    "message": "\u26a0\ufe0f HIGH: KNIFE near Person ID:38",
+    "date": "2025-11-01",
+    "time": "10:50:47"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:47.983120",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 45.68%)",
+    "date": "2025-11-01",
+    "time": "10:50:47"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:48.164126",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 72.72%)",
+    "date": "2025-11-01",
+    "time": "10:50:48"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:48.351521",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 79.62%)",
+    "date": "2025-11-01",
+    "time": "10:50:48"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:48.534663",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 79.28%)",
+    "date": "2025-11-01",
+    "time": "10:50:48"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:48.739446",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 76.75%)",
+    "date": "2025-11-01",
+    "time": "10:50:48"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:48.930782",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 82.77%)",
+    "date": "2025-11-01",
+    "time": "10:50:48"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:49.118988",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 81.02%)",
+    "date": "2025-11-01",
+    "time": "10:50:49"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:49.312100",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 71.99%)",
+    "date": "2025-11-01",
+    "time": "10:50:49"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:49.500779",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 72.88%)",
+    "date": "2025-11-01",
+    "time": "10:50:49"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:49.702991",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 91.04%)",
+    "date": "2025-11-01",
+    "time": "10:50:49"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:49.898134",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 59.56%)",
+    "date": "2025-11-01",
+    "time": "10:50:49"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:50.082932",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 76.35%)",
+    "date": "2025-11-01",
+    "time": "10:50:50"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:50.443063",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 43.85%)",
+    "date": "2025-11-01",
+    "time": "10:50:50"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:51.465259",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 22.28%)",
+    "date": "2025-11-01",
+    "time": "10:50:51"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:51.629110",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 48.94%)",
+    "date": "2025-11-01",
+    "time": "10:50:51"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:51.788632",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 32.26%)",
+    "date": "2025-11-01",
+    "time": "10:50:51"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:51.941817",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 19.47%)",
+    "date": "2025-11-01",
+    "time": "10:50:51"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:52.103920",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 44.25%)",
+    "date": "2025-11-01",
+    "time": "10:50:52"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:52.808416",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 21.69%)",
+    "date": "2025-11-01",
+    "time": "10:50:52"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:52.997274",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 45.52%)",
+    "date": "2025-11-01",
+    "time": "10:50:52"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:53.192716",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 25.19%)",
+    "date": "2025-11-01",
+    "time": "10:50:53"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:53.385901",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 21.07%)",
+    "date": "2025-11-01",
+    "time": "10:50:53"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:54.235110",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 31.44%)",
+    "date": "2025-11-01",
+    "time": "10:50:54"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:54.415892",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 27.36%)",
+    "date": "2025-11-01",
+    "time": "10:50:54"
+  },
+  {
+    "timestamp": "2025-11-01T10:50:54.771266",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 52.62%)",
+    "date": "2025-11-01",
+    "time": "10:50:54"
+  },
+  {
+    "timestamp": "2025-11-01T10:51:06.651746",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 33.58%)",
+    "date": "2025-11-01",
+    "time": "10:51:06"
+  },
+  {
+    "timestamp": "2025-11-01T10:51:06.683259",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 19.38%)",
+    "date": "2025-11-01",
+    "time": "10:51:06"
+  },
+  {
+    "timestamp": "2025-11-01T11:27:52.691194",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:14 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:27:52"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:08.982423",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:22 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:42:08"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:12.923753",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:25 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:42:12"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:14.311961",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:19 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:42:14"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:17.682484",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:25 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:42:17"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:18.999502",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:30 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:42:18"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:22.962368",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:16 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:42:22"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:25.058631",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:30 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:42:25"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:26.572963",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:30 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:42:26"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:27.862802",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:30 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:42:27"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:33.641501",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:16 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:42:33"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:52.014060",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:37 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:42:52"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:54.048602",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:18 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:42:54"
+  },
+  {
+    "timestamp": "2025-11-01T11:42:55.553353",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:41 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:42:55"
+  },
+  {
+    "timestamp": "2025-11-01T11:43:12.191322",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:39 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:43:12"
+  },
+  {
+    "timestamp": "2025-11-01T11:43:37.076008",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:32 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:43:37"
+  },
+  {
+    "timestamp": "2025-11-01T11:43:38.691396",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:32 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:43:38"
+  },
+  {
+    "timestamp": "2025-11-01T11:43:46.283987",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:16 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:43:46"
+  },
+  {
+    "timestamp": "2025-11-01T11:43:50.397158",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:21 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:43:50"
+  },
+  {
+    "timestamp": "2025-11-01T11:44:06.275180",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:31 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:44:06"
+  },
+  {
+    "timestamp": "2025-11-01T11:44:07.290339",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:21 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:44:07"
+  },
+  {
+    "timestamp": "2025-11-01T11:44:10.042780",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:34 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:44:10"
+  },
+  {
+    "timestamp": "2025-11-01T11:44:43.830197",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:22 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:44:43"
+  },
+  {
+    "timestamp": "2025-11-01T11:44:51.779573",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:33 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:44:51"
+  },
+  {
+    "timestamp": "2025-11-01T11:44:53.049634",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:15 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:44:53"
+  },
+  {
+    "timestamp": "2025-11-01T11:44:54.258712",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:62 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:44:54"
+  },
+  {
+    "timestamp": "2025-11-01T11:44:56.162181",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:32 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:44:56"
+  },
+  {
+    "timestamp": "2025-11-01T11:44:57.705819",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:62 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:44:57"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:00.590404",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:46 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:45:00"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:04.422995",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:22 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:45:04"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:18.027057",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:46 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:45:18"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:20.205015",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:46 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:45:20"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:21.456894",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:46 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:45:21"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:23.695497",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:46 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:45:23"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:25.850139",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:55 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:45:25"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:27.613201",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:55 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:45:27"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:33.551762",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:46 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:45:33"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:47.092582",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:44 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:45:47"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:49.240136",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:53 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:45:49"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:54.159147",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:46 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:45:54"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:56.001635",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:12 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:45:56"
+  },
+  {
+    "timestamp": "2025-11-01T11:45:58.929166",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:53 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:45:58"
+  },
+  {
+    "timestamp": "2025-11-01T11:46:02.002221",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:22 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:46:02"
+  },
+  {
+    "timestamp": "2025-11-01T11:46:04.604946",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:22 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:46:04"
+  },
+  {
+    "timestamp": "2025-11-01T11:46:05.790261",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:22 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:46:05"
+  },
+  {
+    "timestamp": "2025-11-01T11:46:08.100156",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:22 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:46:08"
+  },
+  {
+    "timestamp": "2025-11-01T11:46:15.586647",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:45 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:46:15"
+  },
+  {
+    "timestamp": "2025-11-01T11:46:16.854036",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:22 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:46:16"
+  },
+  {
+    "timestamp": "2025-11-01T11:46:18.145795",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:22 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:46:18"
+  },
+  {
+    "timestamp": "2025-11-01T11:46:23.674465",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:79 - Running, Aggressive Approach, Sudden Movement (Score: 75%)",
+    "date": "2025-11-01",
+    "time": "11:46:23"
+  },
+  {
+    "timestamp": "2025-11-01T11:46:26.618353",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:35 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:46:26"
+  },
+  {
+    "timestamp": "2025-11-01T11:46:45.660861",
+    "type": "suspicious_behavior",
+    "message": "\u26a0\ufe0f SUSPICIOUS BEHAVIOR: Person ID:16 - Fast Walking, Aggressive Approach, Sudden Movement (Score: 60%)",
+    "date": "2025-11-01",
+    "time": "11:46:45"
+  },
+  {
+    "timestamp": "2025-11-01T11:47:09.203111",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 18.72%)",
+    "date": "2025-11-01",
+    "time": "11:47:09"
+  },
+  {
+    "timestamp": "2025-11-01T11:47:10.115686",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 59.03%)",
+    "date": "2025-11-01",
+    "time": "11:47:10"
+  },
+  {
+    "timestamp": "2025-11-01T11:47:10.150112",
+    "type": "weapon_proximity",
+    "message": "\u26a0\ufe0f HIGH: SCISSORS near Person ID:67",
+    "date": "2025-11-01",
+    "time": "11:47:10"
+  },
+  {
+    "timestamp": "2025-11-01T11:47:10.651774",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 57.01%)",
+    "date": "2025-11-01",
+    "time": "11:47:10"
+  },
+  {
+    "timestamp": "2025-11-01T11:47:11.060604",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 39.55%)",
+    "date": "2025-11-01",
+    "time": "11:47:11"
+  },
+  {
+    "timestamp": "2025-11-01T11:47:11.532449",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 50.54%)",
+    "date": "2025-11-01",
+    "time": "11:47:11"
+  },
+  {
+    "timestamp": "2025-11-01T11:47:11.556205",
+    "type": "weapon_proximity",
+    "message": "\u26a0\ufe0f HIGH: SCISSORS near Person ID:67",
+    "date": "2025-11-01",
+    "time": "11:47:11"
+  },
+  {
+    "timestamp": "2025-11-01T11:47:12.034331",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 43.59%)",
+    "date": "2025-11-01",
+    "time": "11:47:12"
+  },
+  {
+    "timestamp": "2025-11-01T11:47:12.513777",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: SCISSORS (Confidence: 41.68%)",
+    "date": "2025-11-01",
+    "time": "11:47:12"
+  },
+  {
+    "timestamp": "2025-11-01T11:47:13.795957",
+    "type": "weapon_detected",
+    "message": "\ud83d\udea8 SHARP OBJECT DETECTED: KNIFE (Confidence: 71.09%)",
+    "date": "2025-11-01",
+    "time": "11:47:13"
+  }
+]

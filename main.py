@@ -15,7 +15,7 @@ PROJECT_DIR = "suspicious_data/data"
 DATA_YAML = os.path.join(PROJECT_DIR, "data.yaml")
 MODEL_SAVE_DIR = os.path.join(PROJECT_DIR, "runs")
 SUSPICIOUS_CLASSES = {
-    "gun", "knife", "scissor", "fire", "bat", "rod", 
+    "gun", "knife", "scissor", "scissors", "fire", "bat", "rod", 
     "Pointed_knife", "Dual-edge-sharp-knife", "dual-edge_knife", 
     "recurve", "Sharp_cutter"
 }
@@ -23,6 +23,7 @@ SUSPICIOUS_CLASSES = {
 # MAP ALIASES TO STANDARD NAMES FOR BETTER ORGANIZATION
 SUSPICIOUS_ALIASES = {
     "scissor": "scissors",
+    "scissors": "scissors",
     "Pointed_knife": "knife",
     "Dual-edge-sharp-knife": "knife", 
     "dual-edge_knife": "knife",
